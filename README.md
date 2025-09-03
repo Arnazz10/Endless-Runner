@@ -1,4 +1,4 @@
-# Unity Endless Runner 
+# Unity Endless Runner Game
 
 A simple endless runner game built in Unity using C# where the player automatically runs forward and must avoid obstacles by jumping or sliding.
 
