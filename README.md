@@ -10,6 +10,8 @@ A simple endless runner game built in Unity using C# where the player automatica
 - **Random obstacle spawning** with varying difficulty
 - **Collision detection** for game over
 - **Distance-based scoring system**
+- **Modular code architecture**
+- 
 
 ## Project Structure
 
